@@ -1,2 +1,2 @@
 # SentDex
-SentDex Python projects
+SentDex Python projects and tutorials
