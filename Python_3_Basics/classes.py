@@ -1,22 +1,22 @@
 class calculator:
 
-    def addition(x, y):
+    def function_addition(x, y):
         added = x + y
         print(added)
 
-    def substraction(x, y):
+    def function_substraction(x, y):
         substracted = x - y
         print(substracted)
 
-    def multiplication(x, y):
+    def function_multiplication(x, y):
         multiplied = x * y
         print(multiplied)
 
-    def division(x, y):
+    def function_division(x, y):
         divided = x / y
         print(divided)
 
-calculator.addition(1, 2)
-calculator.substraction(1, 2)
-calculator.multiplication(1, 2)
-calculator.division(1, 2)
+calculator.function_addition(1, 2)
+calculator.function_substraction(1, 2)
+calculator.function_multiplication(1, 2)
+calculator.function_division(1, 2)
