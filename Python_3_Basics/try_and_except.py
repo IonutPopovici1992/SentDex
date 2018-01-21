@@ -22,7 +22,7 @@ with open('example.csv') as csvfile:
         if whatColor in colors:
             color_index = colors.index(whatColor.lower())
             theDate = dates[color_index]
-            print('The date of',whatColor,'is:',theDate,'.')
+            print('The date of', whatColor, 'is:', theDate, '.')
         else:
             print('Color not found, or is not a color!')
 

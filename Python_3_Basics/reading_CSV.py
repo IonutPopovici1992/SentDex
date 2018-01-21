@@ -21,4 +21,4 @@ with open('example.csv') as csvfile:
 
     theDate = dates[color_index]
 
-    print('The date of',whatColor,'is',theDate,'.')
+    print('The date of', whatColor, 'is', theDate, '.')
